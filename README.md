@@ -1,6 +1,6 @@
 # RL-Driven-Neural-Architecture-Search
 
-A Streamlit-based prototype for Neural Architecture Search (NAS) that uses a Recurrent Neural Network (RNN) controller to explore neural network architectures on MNIST dataset.
+A Streamlit-based prototype for automated neural network design that uses a Recurrent Neural Network (RNN) controller to explore neural network architectures on MNIST dataset.
 
 ## Features
 
